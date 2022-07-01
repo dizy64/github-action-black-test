@@ -1,8 +1,8 @@
-class Invalid_Class_Name:
-    def test() -> None:
-        return None
+class InvalidClassName:
+    def test(self):
+        pass
 
-    def InternationalizationTranslateMethod(
-        internationalizationCode: str, InternationalizationMessage: str
+    def internationalization_translate_method(
+        self, internationalization_code: str, internationalization_message: str
     ) -> str:
-        return internationalizationCode + InternationalizationMessage
+        return internationalization_code + internationalization_message

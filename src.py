@@ -1,3 +1,3 @@
-class Invalid_Class_Name:
-    def test() -> None:
-        return None
+class InvalidClassName:
+    def test(self):
+        pass
